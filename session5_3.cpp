@@ -9,5 +9,3 @@ int main(){
 	
 	printf("So le toi vua kiem duoc la %d",n);
 }
-
-
